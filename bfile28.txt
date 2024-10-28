@@ -1,2 +1,6 @@
 Good morning students
+<<<<<<< HEAD
 hi! students
+=======
+Good afternoon student
+>>>>>>> new
